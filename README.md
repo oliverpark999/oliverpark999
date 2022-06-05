@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/IBM Cloud-1261FE?style=flat-square&logo=IBM Cloud&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=Terraform&logoColor=ffffff"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
