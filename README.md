@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 **Kubernetes HPA Mertric </br>**
 노션 페이지 : https://inthemoonlight.notion.site/HPA-Memory-f9f002d5bbde4e848b67f85431755150
+
+**Kubernetes Pod HealthCheck </br>**
+노션 페이지 : https://inthemoonlight.notion.site/Pod-c37b9600412a4db093ef769beb79a65a
