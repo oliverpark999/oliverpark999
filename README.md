@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p>
 
-Kubernetes HPA Mertric
+**Kubernetes HPA Mertric </br>**
 노션 페이지 : https://inthemoonlight.notion.site/HPA-Memory-f9f002d5bbde4e848b67f85431755150
