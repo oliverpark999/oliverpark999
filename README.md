@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 **개인 블로그 </br>**
-- 🔭 :  [블로그](https://www.seouleez.kr)
+- 🔭 :  [https://www.seouleez.kr](https://www.seouleez.kr)
 
