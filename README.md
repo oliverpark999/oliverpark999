@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=Terraform&logoColor=ffffff"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> &nbsp </p>
 
-**Kubernetes HPA Mertric </br>**
-노션 페이지 : https://inthemoonlight.notion.site/HPA-Memory-f9f002d5bbde4e848b67f85431755150
 
-**Kubernetes Pod HealthCheck </br>**
-노션 페이지 : https://inthemoonlight.notion.site/Pod-c37b9600412a4db093ef769beb79a65a
+**개인 블로그 </br>**
+- 🔭 :  [블로그](https://www.seouleez.kr)
+
