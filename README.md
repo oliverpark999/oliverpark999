@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"><b>👋 Seoul Park 👋</b></h3>
+<h3 align="center"><b>👋 🚀</b></h3>
 <!-- </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=ffffff"/></a> &nbsp
