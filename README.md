@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center"><b>👋 Seoul Park 👋</b></h3>
-</br>
+<!-- </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=ffffff"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat&logo=Terraform&logoColor=ffffff"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p>
+<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p> -->
 
 
 **개인 블로그 </br>**
